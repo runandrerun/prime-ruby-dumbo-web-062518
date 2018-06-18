@@ -1,5 +1,5 @@
 # Add  code here!
 
 def prime?(num)
-  array = 
+  array = [] << (1..num)
 end
