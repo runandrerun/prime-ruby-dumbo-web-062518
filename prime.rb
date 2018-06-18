@@ -13,3 +13,4 @@ def prime?(num)
     i += 1
   end  
 end
+end
