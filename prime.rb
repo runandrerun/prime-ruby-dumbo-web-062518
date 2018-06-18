@@ -1,9 +1,7 @@
 # Add  code here!
 
 def prime?(num)
-  if num % 2 == 0
-    return true
-  else
-    return false
-  end
+  array = (1..num).to_a
+  number_of_factors = 0
+  array.each do |numbers|
 end
